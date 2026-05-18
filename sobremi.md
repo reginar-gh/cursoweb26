@@ -2,3 +2,4 @@
 alumno 
 color azul el favorito
 me gusta que me digan regi o ari 
+mi cantante favorito es scarlxrd 
