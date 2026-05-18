@@ -11,9 +11,9 @@ Edita → `git add practica-commits.md` → `git commit -m "..."`
 **Commit:** `feat(perfil): agrega presentación de [tu nombre]`
 
 ```
-Nombre     : 
-GitHub     : 
-Algo sobre mí : 
+Nombre     : regina gonzalez 
+GitHub     : reginar-gh
+Algo sobre mí : me gusta mucho el color azul
 ```
 
 ---
@@ -21,6 +21,9 @@ Algo sobre mí :
 ## Nivel 2 · Lo que ya sabes hacer
 
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
+se nadar muy bien 
+se pintar 
+se cocinar mole 
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
 - 
