@@ -60,12 +60,12 @@ se cocinar mole
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git log --oneline` | |
-| `git push` | |
+| `git init` | | inicializa un repo vacio en la carpeta actual
+| `git status` | | te dice el estado del repo
+| `git add .` | | prepara el archivo para ser guardado en un commit 
+| `git commit -m "..."` | | te permite hacer un cmmit y describir su contenido 
+| `git log --oneline` | | permite ver el historial de los commits
+| `git push` | | permite subir al repositorio remoto lo del repositorio local
 
 ---
 
@@ -74,15 +74,15 @@ se cocinar mole
 **Qué hacer:** Cambia `[ ]` por `[x]` en cada punto que ya dominas.  
 **Commit:** `chore(practica): actualiza checklist de avance`
 
-- [ ] Hice `git init` sin ayuda
-- [ ] Entiendo para qué sirve el Staging Area
-- [ ] Escribí un mensaje de commit con formato Conventional Commits
-- [ ] Puedo ver el historial con `git log`
-- [ ] Completé todos los niveles de esta práctica
+- [ x] Hice `git init` sin ayuda
+- [x ] Entiendo para qué sirve el Staging Area
+- [ x] Escribí un mensaje de commit con formato Conventional Commits
+- [x ] Puedo ver el historial con `git log`
+- [ x] Completé todos los niveles de esta práctica
 
 ---
 
-## Referencia rápida
+## Referencia rápi#a
 
 | Tipo | Cuándo |
 |------|--------|

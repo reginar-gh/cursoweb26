@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Regina Arantza González Hernández">
+    <meta name="description" content="Actividad 2: Programa en C para imprimir información personal">
+
+    <title>Actividad 2</title>
+</head>
+<body>
+    <h1>Explicando un código de C e html</h1>
+    <hr>
+    <pre><code>
+        #include <stdio.h>
+        int main() {
+            int edad;
+            printf("¿Cuántos años tienes? ");
+            scanf("%d", &edad);
+            
+            if (edad >= 18) {
+                printf("Eres mayor de edad.\n");
+            } else {
+                printf("Eres menor de edad.\n");
+            }
+            return 0;
+        }
+    </code></pre>
+    <hr>
+    <p> el #include te permite hacer referencias a bibliotecas, en este caso a stdio.h 
+        <br> stdio.h es la biblioteca estándar de entrada/salida, por sus siglas en inglés
+    </p>
+    <br>
+    <p> la función main es el punto de entrada del programa, es decir, el código que se ejecuta al iniciar el programa </p>
+    <br>
+    <p> la función printf se utiliza para imprimir texto en la consola
+        <br>, en este caso para preguntar al usuario su edad y para mostrar si es mayor o menor de edad 
+    </p>
+    <br>
+    <p> la función scanf se utiliza para leer la entrada del usuario, en este caso la edad </p>
+    <br>
+    <p> el if es una estructura de control que permite ejecutar un bloque de código 
+        <br> si se cumple una condicion, en este caso si la edad es mayor o igual a 18 años </p>
+    <p> finalmente las salidas del if (verdadero o falso) indican, segun la respuesta recibida
+        <br> si el usuario es mayor o menor de edad
+    </p>
+</body>
