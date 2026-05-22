@@ -1,0 +1,37 @@
+#colores, th, td {
+    border-collapse: collapse;
+    border-color: black;
+    border: solid;
+}
+
+#regina .color_fav{
+    background-color: orange;
+}
+
+#erik .color_fav{
+    background-color: green;
+}
+
+#abigail .color_fav{
+    background-color: red;
+}
+
+#diego .color_fav{
+    background-color: purple;
+}
+
+#luisa .color_fav{
+    background-color: blue;
+}
+
+#isaac .color_fav{
+    background-color: yellow;
+}
+
+.nombre {
+    background-color: cornsilk;
+}
+
+.tableHead {
+    background-color: bisque;
+}
